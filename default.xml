@@ -5,7 +5,7 @@
            fetch="https://github.com/" />
 
   <remote  name="aosp"
-           fetch="https://android.googlesource.com"
+           fetch="git://mirrors.ustc.edu.cn/aosp"
            review="android-review.googlesource.com" />
 
   <remote  name="omnirom"
