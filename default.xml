@@ -25,7 +25,7 @@
   <project path="android" name="android" remote="cyanogenmod" revision="cm-13.0" />
   <project path="abi/cpp" name="platform/abi/cpp" groups="pdk" />
   <project path="bionic" name="android_bionic" remote="cyanogenmod" revision="cm-13.0" groups="pdk" />
-  <project path="bootable/recovery-twrp" name="xiaolu/android_bootable_recovery-twrp" remote="github" revision="xiaolu-android-6.0" groups="pdk-cw-fs"/>
+  <project path="bootable/recovery-twrp" name="omnirom/android_bootable_recovery" remote="github" revision="android-6.0" groups="pdk-cw-fs"/>
   <project path="device/common" name="device/common" groups="pdk-cw-fs,pdk-fs" />
   <project path="device/generic/armv7-a-neon" name="device/generic/armv7-a-neon" groups="pdk" />
   <project path="device/generic/common" name="device/generic/common" groups="pdk" />
