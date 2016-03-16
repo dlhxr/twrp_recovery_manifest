@@ -13,7 +13,7 @@
            fetch="https://github.com/cyanogenmod"
            revision="refs/heads/cm-13.0"/>
 
-  <default revision="refs/tags/android-6.0.1_r13"
+  <default revision="refs/tags/android-6.0.1_r22"
            remote="aosp"
            sync-c="true"
            sync-j="4" />
